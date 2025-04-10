@@ -4,9 +4,9 @@ import Aprovacao from './pages/aprovado';
 
 function App() {
   return (
-    <Router basename="/landing-aprovados2025">
+    <Router>
       <Routes>
-      <Route path="/" element={<Aprovacao />} />
+        <Route path="/" element={<Aprovacao />} />
         <Route path="/:id" element={<Aprovacao />} />
       </Routes>
     </Router>
