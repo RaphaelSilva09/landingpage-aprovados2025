@@ -63,10 +63,8 @@ function Aprovacao() {
       <p>
         Mas, antes disso, voce precisa entrar no grupo de{" "}
         <a href="https://chat.whatsapp.com/FkMlqsonfrAB0md0jXcqYd">Whatsapp</a> do clube e
-        conhecer a nosso{" "}
-        <a href="https://docs.google.com/document/d/1e_msALJ75PLnUfmLh6rySY-ont-MT2DZS4ry-LISneE/edit?usp=sharing">
-          regimento interno
-        </a>
+        confirmar a sua{" "}
+        <a href="https://forms.gle/EQf8dSFwgM4XnNF79">inscricao</a> conosco
         .
       </p>
     </div>
